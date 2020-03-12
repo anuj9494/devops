@@ -2,7 +2,5 @@ hello
 change1
 change2
 change3
-<<<<<<< HEAD
 change4
-=======
->>>>>>> 6d17a3d8b4703b63ff095de4c58f5c65a4906fb0
+change5
